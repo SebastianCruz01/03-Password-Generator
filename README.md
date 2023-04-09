@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# Password Generator 
 
 Welcome to Password Generator 3000!
 
