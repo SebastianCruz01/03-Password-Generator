@@ -1,5 +1,5 @@
 # Password Generator Starter Code
-the purpose of this project is to generate a password with user requests. 
+
 Welcome to Password Generator 3000!
 
 This tool helps you generate a secure password by prompting you to select password criteria such as length and character types. The generated password will meet the selected criteria and can be displayed in an alert or written to the page.
